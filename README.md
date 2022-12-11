@@ -4,4 +4,4 @@ This application is a Sound AR work that plays sounds by plucking AR strings str
 The following short movie shows an overview of the application.  
 https://youtube.com/shorts/GtSSZ_nq8HE?feature=share
 
-[![Short Movie](https://user-images.githubusercontent.com/63796528/206895065-e64446fe-9527-4da4-9d8f-4090f80f03ac.png)](https://youtube.com/shorts/GtSSZ_nq8HE?feature=share)
+[![Short Movie](https://user-images.githubusercontent.com/63796528/206895271-27d055df-2d9f-422d-95cd-cf8af049de32.png)](https://youtube.com/shorts/GtSSZ_nq8HE?feature=share)
