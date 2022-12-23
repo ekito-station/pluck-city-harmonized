@@ -1,6 +1,9 @@
 # Pluck City -harmonized-
 This application is a Sound AR work that plays sounds by plucking AR strings stretched across urban space. It is under development.
 
+The version exhibited at "iiiEx2022 Emulsion" at the University of Tokyo is here.  
+https://github.com/ekito-station/pluck-city-harmonized-iiiex
+
 The following short movie shows an overview of the application.  
 https://youtube.com/shorts/GtSSZ_nq8HE?feature=share
 
